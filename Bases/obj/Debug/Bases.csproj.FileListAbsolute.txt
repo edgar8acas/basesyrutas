@@ -1,0 +1,10 @@
+C:\Users\caste\source\repos\Bases\Bases\bin\Debug\Bases.exe.config
+C:\Users\caste\source\repos\Bases\Bases\bin\Debug\Bases.exe
+C:\Users\caste\source\repos\Bases\Bases\bin\Debug\Bases.pdb
+C:\Users\caste\source\repos\Bases\Bases\obj\Debug\Bases.csprojResolveAssemblyReference.cache
+C:\Users\caste\source\repos\Bases\Bases\obj\Debug\Bases.Properties.Resources.resources
+C:\Users\caste\source\repos\Bases\Bases\obj\Debug\Bases.csproj.GenerateResource.cache
+C:\Users\caste\source\repos\Bases\Bases\obj\Debug\Bases.csproj.CoreCompileInputs.cache
+C:\Users\caste\source\repos\Bases\Bases\obj\Debug\Bases.exe
+C:\Users\caste\source\repos\Bases\Bases\obj\Debug\Bases.pdb
+C:\Users\caste\source\repos\Bases\Bases\obj\Debug\Bases.Form1.resources
