@@ -55,7 +55,7 @@ namespace Bases
 
         private void btnRuta_Click(object sender, EventArgs e)
         {
-
+            txtResult.Text = bases.Ruta(txtBInicio.Text, Convert.ToInt32(txtHoraInicio.Text), Convert.ToInt32(txtHoraFin.Text));
         }
     }
 }

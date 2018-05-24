@@ -59,6 +59,21 @@ namespace Bases
             }
         }
 
+        public string Ruta(string nombreInicio, int ini, int fin)
+        {
+            Base b = Buscar(nombreInicio);
+            string recorrido = "";
+            int total = fin - ini;
+            int transcurrido = 0;
+            while(transcurrido < total)
+            {
+                transcurrido += b.Tiempo;
+                recorrido += transcurrido + "/" + total + " => " + b.ToString();
+                b = b.Siguiente;
+            }
+            return recorrido;
+        }
+
         public Base Eliminar(string nombre)
         {
             Base e = Buscar(nombre); 
